@@ -1,0 +1,8 @@
+{
+  "email": "marco@comune.castione.bg.it",
+  "password": "4kjb!knF",
+  "smtp_server": "mail.comune.castione.bg.it",
+  "smtp_port": 465,
+  "use_ssl": true,
+  "destinatari": ["marco@comune.castione.bg.it"]
+}

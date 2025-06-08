@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "segretariamarco",
+  "private_key_id": "5023501111bc9377b73ef50ce87a16b3dc7cb692",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2osqFUR1rS8Um\nyfQ/WeRiZJBTzK09VTwHqVF8q1lvAaFmpqVnkO0E99eVHu80rrS+4BwF8owbrxsb\n6i/8IMB71Mc1FZareSj7rrLG29o9btzK8N05JP576upr1TGVehTEeWNIdDb6Htp2\nntJsbggUAAQDU3aWWltrP18XrxWKzBfMnzlGeEI9TYa+SHEZEUDk/69hB2gen+Wo\njQ5mnDStAfvzAbQXaksuPHlu/aO1/rUL71sqRW1CiStSyYLzTSHcEGgLBgdoQwby\njaWn6UpKQ/XMeeezAHkL+JYn/lrRmICGft1HsFCGDLY6mP0cnQvWdH0/iVQZHxTr\nCIfOFw0xAgMBAAECggEAA2qJkPCyFQgkMFAn3hvn0WYV28ZqNrmVMM6+83mMR8RL\nL8Lgrkkuq3M5bGdJVHDAjgneEPz/DUkYmocg8IWE5Nq8wuppZgHTOsbIfpRyo/0S\npXu3xJujjwoclPRQ/A2jeAPDVVcspyqBczrFacyCq3aZsfL7RsTQB9JAsejcdXBo\n9/sBES0PbC9boRyY+My5LnQbVVcCuLeb0JSGwGd9SgE0/cLlXWUaWNj3Z505qX94\n9ZsY9snLt2A6fhPuzSnuqqqop8xfd8UQIHwC9H4zTTmKXTdgr7ijuy1QjJOSxPUv\nVSY/dyyXwo427ubXSzrV9JqQzuwmczozPO2jdx/BoQKBgQDiwAAxhxxxMfkrODYw\ndhgRVOFdvI52v+5oQnPge1lWNzsGn9CKko5WKg0y1XuF0j8oOgGWVCwklWOTxFZB\nO9VBl0m6Rca12Ye48iUv1x5k6LUBaYQBkCdh8t35XlkgTTL83B2qP/YQKyDnusJq\njPaPOxlRHbkLDb1PxByRvWFd0QKBgQDOMgD5/NwaSzRgBR3mNy7XuFQRjN85TyLG\njSTyyAAnbVDdEDb2IOrJNfGJ7E44asrOOasREBU8nXp5yA98QcxOdcr1N9N08Ugk\nKxgpw6fgZdMaW63eAXiNuT5zKlp+bflNxM5015rwplDEZP0/pMNrXnI4E8c4De41\nonAgoUWxYQKBgDd1WFbEwfsZiuS8Ody+dYJ/rSM9A+cdaFUNs8O6x43jskcbfWj3\nEWMXo+TD/BMt6g6PqWW4LpfABfvVMHeCB9WkB/9MI57EloJwjxHVXnS1ydePlB7B\nwDAfs5TTM59H4mmf+I10WV14/vJOZlCjK4a6oKWLTH/cm2nQAGDQ3eiRAoGAQZYq\nNVo28K4nNLur7QR0g+1/4C08+8+uMhXHQOpZEjF1XTvBH70MsX/VGpftsYhWhg5V\n2ZGSD7vPr1jxhAax4+sX6bQeML5mwgprHy27AmehJGsw/MLfA8V+lcdNDZYRjKkj\nOosyH4XnfvDYlRvlhQt/rVKtNalIsgq/O8HQl0ECgYEAsqGDehL+GmpTyuAO8WSD\nSk1Jil/OkS5b5a4PZLRtsQj3tpRQX7oIyeuTYDJmjd83ZPW8xXKkWnraDw8CC+Z7\nQJUdviz/a244TgYCEuKu1h9lSmhugUS5aB/tMWnCKh0L38/yBdP2xb5PO6WFu0Qu\nZP2aTsuI11os47gyTeUxAvM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-service@segretariamarco.iam.gserviceaccount.com",
+  "client_id": "106911846388413143744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-service%40segretariamarco.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
