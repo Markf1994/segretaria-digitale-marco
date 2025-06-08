@@ -4,7 +4,7 @@ import pandas as pd
 from google.oauth2.service_account import Credentials
 
 SHEET_ID = "SegretariaDigitale"
-CREDS_FILE = "segretariamarco-5023501111bc.json"
+CREDS_FILE = "segretariamarco-nuovo.json"
 
 scope = [
     "https://www.googleapis.com/auth/spreadsheets",
