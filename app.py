@@ -11,7 +11,7 @@ DETERMINE_CSV = "determine_dashboard.csv"
 CALENDARIO_CSV = "eventi_calendario.csv"
 TODO_CSV = "todo_list.csv"
 UTENTI_JSON = "utenti.json"
-LOGO = "Stemma2k25definitivo.png"
+LOGO = "stemma.png"
 
 def carica_csv(path, columns, date_cols=[]):
     if os.path.exists(path):
